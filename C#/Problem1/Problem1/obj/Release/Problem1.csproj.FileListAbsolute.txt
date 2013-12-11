@@ -1,0 +1,5 @@
+C:\Users\Shayde\Desktop\ProjectEuler\C#\Problem1\Problem1\bin\Release\Problem1.exe.config
+C:\Users\Shayde\Desktop\ProjectEuler\C#\Problem1\Problem1\bin\Release\Problem1.exe
+C:\Users\Shayde\Desktop\ProjectEuler\C#\Problem1\Problem1\bin\Release\Problem1.pdb
+C:\Users\Shayde\Desktop\ProjectEuler\C#\Problem1\Problem1\obj\Release\Problem1.exe
+C:\Users\Shayde\Desktop\ProjectEuler\C#\Problem1\Problem1\obj\Release\Problem1.pdb
